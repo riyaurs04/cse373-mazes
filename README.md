@@ -1,1 +1,1 @@
-# cse373-mazes
+# CSE 373 - Mazes
